@@ -24,4 +24,4 @@ API endpoint
 
 
 Note
-	For problem 1, please ru backend and front end script
+	For problem 1, please run backend and front end script
